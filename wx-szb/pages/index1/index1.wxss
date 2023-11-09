@@ -1,0 +1,34 @@
+.pc1{
+  padding: 0rpx 20rpx 0rpx 20rpx;
+  margin-left: 34rpx;
+}
+swiper image{
+  width: 100%;
+  margin-left: 7rpx;
+}
+swiper{
+  padding: 0rpx 20rpx 0rpx 20rpx;
+  height: 300rpx;
+}
+
+.ba{
+  width: 100%;
+ 
+}
+.list{
+  display: flex;
+  flex-wrap: wrap;
+}
+.item{
+  width: 33.33%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color:tomato;
+}
+.item image{
+  width: 180rpx;
+  height: 120rpx;
+  margin-left: 20rpx;
+  padding: 20rpx 20rpx;
+}

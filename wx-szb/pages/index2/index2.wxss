@@ -1,0 +1,7 @@
+.kabao{
+  padding: 25rpx 10rpx 25rpx 55rpx;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  color:orangered;
+}

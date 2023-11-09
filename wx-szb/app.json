@@ -1,0 +1,35 @@
+{
+  "pages":[ 
+    "pages/index1/index1",
+    "pages/index2/index2",
+    "pages/index5/index5",
+    "pages/index4/index4",
+    "pages/index3/index3",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#66ccff",
+    "navigationBarTitleText": "影之诗",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "list": [
+      {
+      "pagePath": "pages/index1/index1",
+      "text": "职业",
+      "iconPath": "img/no.png",
+      "selectedIconPath": "img/-active.png"
+    },
+    {
+      "pagePath": "pages/index2/index2",
+      "text": "指定卡包",
+      "iconPath": "img/no.png",
+      "selectedIconPath": "img/-active.png"
+    }
+  ]
+  }
+}

@@ -1,0 +1,91 @@
+<view>
+<text class="color1">精灵</text>
+  <scroll-view class="nav1" scroll-x>
+    <view class="nav2" wx:for="{{ka}}" wx:key="{{id}}">
+     <view class="active">
+     <navigator url="/pages/index4/index4">
+      <image src="{{item.pc}}" class="pc" mode="scaleToFill"></image>
+      </navigator>
+      <text>{{item.wr1}}</text>
+     </view>
+    </view>
+  </scroll-view>
+  <text class="color2">皇家</text>
+  <scroll-view class="nav1" scroll-x>
+    <view class="nav2" wx:for="{{ka}}" wx:key="{{id}}">
+      <view class="active">
+      <image src="{{item.a}}" class="pc" mode="scaleToFill"></image>
+      <text>{{item.wr2}}</text>
+     </view>
+    </view>
+  </scroll-view>
+  <text class="color3">巫师</text>
+  <scroll-view class="nav1" scroll-x>
+    <view class="nav2" wx:for="{{ka}}" wx:key="{{id}}">
+      <view class="active">
+      <image src="{{item.b}}" class="pc" mode="scaleToFill"></image>
+      <text>{{item.wr3}}</text>
+     </view>
+    </view>
+  </scroll-view>
+  <text class="color4">龙族</text>
+  <scroll-view class="nav1" scroll-x>
+    <view class="nav2" wx:for="{{ka}}" wx:key="{{id}}">
+      <view class="active">
+      <image src="{{item.c}}" class="pc" mode="scaleToFill"></image>
+      <text>{{item.wr4}}</text>
+     </view>
+    </view>
+    
+  </scroll-view>
+  <text class="color5">唤灵者</text>
+  <scroll-view class="nav1" scroll-x>
+    <view  class="nav2"  wx:for="{{ka}}" wx:key="{{id}}">
+      <view class="active">
+      <image src="{{item.d}}" class="pc" mode="scaleToFill"></image>
+      <text>{{item.wr5}}</text>
+     </view>
+    </view>
+   
+  </scroll-view>
+  <text class="color6">血族</text>
+  <scroll-view class="nav1" scroll-x>
+    <view class="nav2" wx:for="{{ka}}" wx:key="{{id}}">
+      <view class="active">
+      <image src="{{item.e}}" class="pc" mode="scaleToFill"></image>
+      <text>{{item.wr6}}</text>
+     </view>
+    </view>
+   
+  </scroll-view>
+  <text class="color7">主教</text>
+  <scroll-view class="nav1" scroll-x>
+    <view class="nav2"  wx:for="{{ka}}" wx:key="{{id}}">
+      <view class="active">
+      <image src="{{item.f}}" class="pc" mode="scaleToFill"></image>
+      <text>{{item.wr7}}</text>
+     </view>
+  
+    </view>
+  </scroll-view>
+  <text class="color8">造物主</text>
+  <scroll-view class="nav1" scroll-x>
+    <view  class="nav2"  wx:for="{{ka}}" wx:key="{{id}}">
+      <view class="active">
+      <image src="{{item.g}}" class="pc" mode="scaleToFill"></image>
+      <text>{{item.wr8}}</text>
+     </view>
+   
+    </view>
+  </scroll-view>
+  <text class="color9">中立</text>
+  <scroll-view class="nav1" scroll-x>
+    <view class="nav2" wx:for="{{ka}}" wx:key="{{id}}">
+      <view class="active">
+      <image src="{{item.h}}" class="pc" mode="scaleToFill"></image>
+      <text>{{item.wr9}}</text>
+     </view>
+    
+    </view>
+  </scroll-view>
+</view>

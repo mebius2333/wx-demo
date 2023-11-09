@@ -1,0 +1,16 @@
+<view style="position: relative;" wx:for="{{head}}">
+  <image src="{{item.img}}" mode="widthFix" style="width: 100%;height: 20%;"></image>
+  <view class="aa"><text style="color: red;">{{item.head}}</text><text>\n\n作者:{{item.editor}}\n\n标签：{{item.who}}\n\n优劣：{{item.ad}}</text></view>
+</view>
+<view class="a1">
+  <view wx:for="{{card}}" wx:key="id" class="a2">
+    <image src="{{item.img}}" mode="widthFix" class="a3"></image>
+    <view class="a4">{{item.name}}</view>
+  </view>
+</view>
+<view class="containers">
+  <ec-canvas id="mychart-dom-line" canvas-id="mychart-line" ec="{{ ec }}"></ec-canvas>
+</view>
+<view class="containers1">
+  <ec-canvas id="mychart-dom-line" canvas-id="mychart-line" ec="{{ ec1 }}"></ec-canvas>
+</view>

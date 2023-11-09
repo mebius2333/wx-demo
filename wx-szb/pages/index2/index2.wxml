@@ -1,0 +1,9 @@
+<view style="background:url(/img/12.jpg); ;background-repeat: no-repeat;background-size: cover;background-size: 100% 100%;" class="ba">
+  <view class="kabao" wx:for="{{kabao}}" wx:key="id">
+    <navigator url="/pages/index3/index3" open-type="navigate" version="release">
+    <image src="{{item.icon}}" mode="widthFix" />
+    </navigator>
+    <text>{{item.text}}</text>
+  </view>
+
+</view>

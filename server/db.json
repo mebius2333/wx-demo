@@ -1,0 +1,484 @@
+{
+  "gridList": [
+    {
+      "id": "0",
+      "name": "精灵",
+      "icon2": "/img/szb1.png",
+      "icon": "/img/kabao1.png"
+    },
+    {
+      "id": "1",
+      "name": "皇家",
+      "icon2": "/img/szb2.png",
+      "icon": "/img/kabao2.png"
+    },
+    {
+      "id": "2",
+      "name": "巫师",
+      "icon2": "/img/szb3.png",
+      "icon": "/img/kabao3.png"
+    },
+    {
+      "id": "3",
+      "name": "龙族",
+      "icon2": "/img/szb4.png",
+      "icon": "/img/kabao4.png"
+    },
+    {
+      "id": "4",
+      "name": "唤灵师",
+      "icon2": "/img/szb5.png"
+    },
+    {
+      "id": "5",
+      "name": "暗夜伯爵",
+      "icon2": "/img/szb6.png"
+    },
+    {
+      "id": "6",
+      "name": "主教",
+      "icon2": "/img/szb7.png"
+    },
+    {
+      "id": "7",
+      "name": "超越者",
+      "icon2": "/img/szb8.png"
+    }
+  ],
+  "lunbo": [
+    {
+      "id": "0",
+      "icon": "/img/kabao1.png"
+    },
+    {
+      "id": "1",
+      "icon": "/img/kabao2.png"
+    },
+    {
+      "id": "2",
+      "icon": "/img/kabao3.png"
+    },
+    {
+      "id": "3",
+      "icon": "/img/kabao4.png"
+    },
+    {
+      "id": "5",
+      "icon": "/img/kabao5.png"
+    },
+    {
+      "id": "6",
+      "icon": "/img/kabao6.png"
+    },
+    {
+      "id": "7",
+      "icon": "/img/kabao7.png"
+    },
+    {
+      "id": "8",
+      "icon": "/img/kabao8.png"
+    },
+    {
+      "id": "9",
+      "icon": "/img/kabao9.png"
+    },
+    {
+      "id": "10",
+      "icon": "/img/kabao10.png"
+    },
+    {
+      "id": "11",
+      "icon": "/img/kabao11.png"
+    },
+    {
+      "id": "12",
+      "icon": "/img/kabao12.png"
+    },
+    {
+      "id": "13",
+      "icon": "/img/kabao13.png"
+    },
+    {
+      "id": "14",
+      "icon": "/img/kabao14.png"
+    },
+    {
+      "id": "15",
+      "icon": "/img/kabao15.png"
+    },
+    {
+      "id": "16",
+      "icon": "/img/kabao16.png"
+    },
+    {
+      "id": "17",
+      "icon": "/img/kabao17.png"
+    },
+    {
+      "id": "18",
+      "icon": "/img/kabao18.png"
+    }
+  ],
+  "kabao": [
+    {
+      "id": "0",
+      "icon": "/img/kabao1.png",
+      "text": "第27弹卡包「Eightfold Abyss: Azvaldt / 八狱魔境·阿兹弗特」"
+    },
+    {
+      "id": "1",
+      "icon": "/img/kabao2.png",
+      "text": "第26弹卡包「Celestial Dragonblade / 示天龙剑」"
+    },
+    {
+      "id": "2",
+      "icon": "/img/kabao3.png",
+      "text": "第25弹卡包「Roar of the Godwyrm / 极天龙鸣」"
+    },
+    {
+      "id": "3",
+      "icon": "/img/kabao4.png",
+      "text": "第24弹卡包「Edge of Paradise / 天象乐土」"
+    },
+    {
+      "id": "4",
+      "icon": "/img/kabao5.png",
+      "text": "第23弹卡包「Omen of Storms / 十祸斗争」"
+    }
+  ],
+  "ka": [
+    {
+      "pc":"/img/p1.png",
+      "id":"0",
+      "a":"/img/a1.png",
+      "b":"/img/b1.png",
+      "c":"/img/c1.png",
+      "d":"/img/d1.png",
+      "e":"/img/e1.png",
+      "f":"/img/f1.png",
+      "g":"/img/g1.png",
+      "h":"/img/h1.png",
+      "wr1":"修剪的罪人·曲千代",
+      "wr2":"出航的罪人·巴巴洛丝",
+      "wr3":"耽溺的罪人·赛菲",
+      "wr4":"游猎的罪人·安特玛利亚",
+      "wr5":"敕令的罪人·伊斯坦戴德",
+      "wr6":"罗刹的罪人·伽罗塔德",
+      "wr7":"结盟的罪人·艾尔拉德",
+      "wr8":"机锋的罪人·卡特斯罗特", 
+      "wr9":"轮回的统治者·泽拉埃尔"
+    },
+    {
+      "pc":"/img/p2.png",
+      "id":"1",
+      "a":"/img/a2.png",
+      "b":"/img/b2.png",
+      "c":"/img/c2.png",
+      "d":"/img/d2.png",
+      "e":"/img/e2.png",
+      "f":"/img/f2.png",
+      "g":"/img/g2.png",
+      "h":"/img/h2.png",
+      "wr1":"香风的执行者·威姆埃尔",
+      "wr2":"武皇的执行者·雷迪埃尔",
+      "wr3":"破式的执行者·夏摩埃尔",
+      "wr4":"禁牙的执行者·德拉兹埃尔",
+      "wr5":"灭尸的执行者·米罗埃尔",
+      "wr6":"蛇殿的执行者·克诺姆埃尔",
+      "wr7":"翼天的执行者·乌努埃尔",
+      "wr8":"弹哭的执行者·基鲁萨埃尔", 
+      "wr9":"圆环的看守"
+    },{
+      "pc":"/img/p3.png",
+      "id":"2",
+      "a":"/img/a3.png",
+      "b":"/img/b3.png",
+      "c":"/img/c3.png",
+      "d":"/img/d3.png",
+      "e":"/img/e3.png",
+      "f":"/img/f3.png",
+      "g":"/img/g3.png",
+      "h":"/img/h3.png",
+      "wr1":"叶脉的大姐大",
+      "wr2":"惊涛副船长",
+      "wr3":"忘我的才女",
+      "wr4":"焦土的无赖",
+      "wr5":"深渊上校",
+      "wr6":"激愤的副总长",
+      "wr7":"誓约的干部",
+      "wr8":"熔铁的心腹", 
+      "wr9":"阿兹弗特"
+    },
+    {
+      "pc":"/img/p4.png",
+      "id":"3",
+      "a":"/img/a4.png",
+      "b":"/img/b4.png",
+      "c":"/img/c4.png",
+      "d":"/img/d4.png",
+      "e":"/img/e4.png",
+      "f":"/img/f4.png",
+      "g":"/img/g4.png",
+      "h":"/img/h4.png",
+      "wr1":"芬芳的看守",
+      "wr2":"尽忠的看守",
+      "wr3":"异术的看守",
+      "wr4":"坚爪的看守",
+      "wr5":"躯壳的看守",
+      "wr6":"腐乱的看守",
+      "wr7":"飞翔的看守",
+      "wr8":"撞针的看守", 
+      "wr9":"天使处刑者"
+    },
+    {
+      "pc":"/img/p5.png",
+      "id":"4",
+      "a":"/img/a5.png",
+      "b":"/img/b5.png",
+      "c":"/img/c5.png",
+      "d":"/img/d5.png",
+      "e":"/img/e5.png",
+      "f":"/img/f5.png",
+      "g":"/img/g5.png",
+      "h":"/img/h5.png",
+      "wr1":"根部的刺客",
+      "wr2":"潮流的炮手",
+      "wr3":"入迷的研究者",
+      "wr4":"坍塌的袭击者",
+      "wr5":"冥府的中尉",
+      "wr6":"猛袭的特攻队长",
+      "wr7":"戒律的谍报员",
+      "wr8":"精炼的保镖", 
+      "wr9":"猫头枭少女"
+    },
+    {
+      "pc":"/img/p6.png",
+      "id":"5",
+      "a":"/img/a6.png",
+      "b":"/img/b6.png",
+      "c":"/img/c6.png",
+      "d":"/img/d6.png",
+      "e":"/img/e6.png",
+      "f":"/img/f6.png",
+      "g":"/img/g6.png",
+      "h":"/img/h6.png",
+      "wr1":"盖亚妖精",
+      "wr2":"铁壁的守护者",
+      "wr3":"水晶女巫",
+      "wr4":"重生的龙骑士",
+      "wr5":"刃爪骷髅",
+      "wr6":"恶魔鼓手",
+      "wr7":"红宝石猎鹰",
+      "wr8":"沙漠滑板手", 
+      "wr9":"天球仪天使"
+    },
+    {
+      "pc":"/img/p7.png",
+      "id":"6",
+      "a":"/img/a7.png",
+      "b":"/img/b7.png",
+      "c":"/img/c7.png",
+      "d":"/img/d7.png",
+      "e":"/img/e7.png",
+      "f":"/img/f7.png",
+      "g":"/img/g7.png",
+      "h":"/img/h7.png",
+      "wr1":"野生的觉醒",
+      "wr2":"裂风飞侠",
+      "wr3":"将！",
+      "wr4":"瞬刃的龙人",
+      "wr5":"幽灵消亡",
+      "wr6":"恶魔吹笛者",
+      "wr7":"不可侵犯的教会",
+      "wr8":"改造技师", 
+      "wr9":"神秘探索者"
+    },
+    {
+      "pc":"/img/p8.png",
+      "id":"7",
+      "a":"/img/a8.png",
+      "b":"/img/b8.png",
+      "c":"/img/c8.png",
+      "d":"/img/d8.png",
+      "e":"/img/e8.png",
+      "f":"/img/f8.png",
+      "g":"/img/g8.png",
+      "h":"/img/h8.png",
+      "wr1":"嫩芽的成员",
+      "wr2":"大海的斥候",
+      "wr3":"专注的实验体",
+      "wr4":"裂隙的盗贼",
+      "wr5":"奈落的中士",
+      "wr6":"威压的防卫队长",
+      "wr7":"宗规的成员",
+      "wr8":"黑锈的小跟班", 
+      "wr9":"天使破击"
+    },
+    {
+      "pc":"/img/p9.png",
+      "id":"8",
+      "a":"/img/a9.png",
+      "b":"/img/b9.png",
+      "c":"/img/c9.png",
+      "d":"/img/d9.png",
+      "e":"/img/e9.png",
+      "f":"/img/f9.png",
+      "g":"/img/g9.png",
+      "wr1":"兽人长矛手",
+      "wr2":"流浪骑士",
+      "wr3":"群青的魔女",
+      "wr4":"黑暗人鱼",
+      "wr5":"甜品死灵法师",
+      "wr6":"陀螺孤狼",
+      "wr7":"紫水晶狮子",
+      "wr8":"独行的人偶师"
+      
+      
+    },
+    {
+      "pc":"/img/p10.png",
+      "id":"9",
+      "a":"/img/a10.png",
+      "b":"/img/b10.png",
+      "c":"/img/c10.png",
+      "d":"/img/d10.png",
+      "e":"/img/e10.png",
+      "f":"/img/f10.png",
+      "g":"/img/g10.png",
+      "wr1":"飞越森林的商人",
+      "wr2":"重装战士",
+      "wr3":"冰雨坠击",
+      "wr4":"舞动的海蟹",
+      "wr5":"忠犬幽灵",
+      "wr6":"冰噬食人魔",
+      "wr7":"光辉宝珠",
+      "wr8":"遗迹的拟态兵"
+      
+     
+    },
+    {
+      "pc":"/img/p11.png",
+      "id":"10",
+      "a":"/img/a11.png",
+      "b":"/img/b11.png",
+      "c":"/img/c11.png",
+      "d":"/img/d11.png",
+      "e":"/img/e11.png",
+      "f":"/img/f11.png",
+      "g":"/img/g11.png",
+      "wr1":"疾风刺击",
+      "wr2":"忍具齐放",
+      "wr3":"变猫术",
+      "wr4":"屠龙一闪",
+      "wr5":"骸骨再生",
+      "wr6":"狂烈怒号",
+      "wr7":"吟唱：圣兽的古迹",
+      "wr8":"人偶的训练"
+    
+      
+    }
+
+  ],
+  "show":[
+    { "id":"0",
+      "img1":"/img/j1.png",
+      "img2":"/img/j2.png",
+      "type":"八狱",
+      "decompose":"精灵",
+      "cv":"川澄绫子",
+      "pac":"八狱魔境",
+      "name":"修剪的罪人·曲千代",
+      "before":"可以不消耗EP而进行进化。（有1回合只可进化1次的限制）入场曲 本回合中使用的卡牌数+1。",
+      "after":"进化时 若“本次对战中，使用了4或4张以上卡牌的你的回合”为4或4回合以上，则使你的所有八狱随从+2/+2且获得疾驰。",
+      "bac1":"很久以前創立綠傘會根基的「森林之父」曾說過呢。\n如此便能殺更多人，屠殺、壯闊綠傘吧等這類的話。\n先不說我，但我可不會讓兒子成為畜生。\n於消散之際呼喚煙霧──讓謊花盛開吧，緋岸橙醉。\n",
+      "bac2":"我的人頭是為了正當的繼承權，要留給獨子的啦。\n在鋼鐵森林中負責看守的各位，要不要退下都無妨。\n不懂得收足的，就做好成為落花的覺悟吧。\n力斷萬年藤蔓並合掌──讓謊花盛開吧，緋岸橙醉。"
+
+    }
+ ],
+ "card":[
+   {
+       "id":"0",
+       "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_125211030.jpg?2023125171",
+       "name":"1 军士猫×3"
+   },
+   {
+    "id":"1",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_123041020.jpg?2023125171",
+    "name":"2 饿姐×2(中立)"
+   },
+   {
+    "id":"2",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_124241010.jpg?2023125171",
+    "name":"2 萧炎×3"
+   },
+   {
+    "id":"3",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_125221030.jpg?2023125171",
+    "name":"2 鲁米那斯枪士×3"
+   },
+   {
+    "id":"4",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_125231020.jpg?2023125171",
+    "name":"2 驍戰的魯米那斯騎士×3"
+   },
+   {
+    "id":"5",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_126211020.jpg?2023125171",
+    "name":"2 洁白骑士×3"
+   },
+   {
+    "id":"6",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_127214010.jpg?2023125171",
+    "name":"2 投掷忍具×3"
+   },
+   {
+    "id":"7",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_126014010.jpg?2023125171",
+    "name":"3 穿刺陷阱×3"
+   },
+   {
+    "id":"8",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_123041020.jpg?2023125171",
+    "name":"3 辉光的鲁米那斯骑士×3"
+   },
+   {
+    "id":"9",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_126241020.jpg?2023125171",
+    "name":"3 武装千金×2"
+   },
+   {
+    "id":"10",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_713214020.jpg?2023125171",
+    "name":"3 武装强化×3"
+   },
+   {
+    "id":"11",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_127241010.jpg?2023125171",
+    "name":"4 出航的罪人×2"
+   },
+   {
+    "id":"12",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_126241030.jpg?2023125171",
+    "name":"5 顶峰战将×3"
+   },
+   {
+    "id":"13",
+    "img":"https://shadowverse-portal.com/image/card/phase2/common/L/L_125241030.jpg?2023125171",
+    "name":"6 君主城塞×2"
+   }
+   
+ ],
+ "head":[{
+    "img":"/img/king.png",
+    "head":"小区皇",
+    "editor":"mebius",
+    "who":"指定 天梯 中速 t2",
+    "ad":"优开所有无盾t1,劣开所有有盾卡组"
+
+ }],
+   "wu":[
+    { "value": "8", "name": "法术" },
+     { "value": "32", "name": "随从" }],
+    "tu":["直接访问", "邮件营销", "联盟广告", "视频广告", "搜索引擎"],
+    "tu1":["Email", "Union Ads", "Video Ads", "Direct", "Search Engine"]
+}

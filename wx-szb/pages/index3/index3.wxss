@@ -1,0 +1,54 @@
+.nav1{
+  white-space: nowrap;
+  padding:0rpx 0rpx 10rpx 0rpx;
+}
+.nav2{
+ padding: 20rpx 45rpx;
+ font-size: 30rpx;
+ display: inline-block;
+ /* 使"元素"在一行上显示 */
+}
+ .pc{
+   height: 250rpx;
+   width: 200rpx;
+ }
+.color1{
+  color: chartreuse;
+}
+.color2{
+  color: gold;
+}
+.color3{
+  color: royalblue;
+}
+.color4{
+  color: darkgoldenrod;
+}
+.color5{
+  color: darkorchid;
+}
+.color6{
+  color: #de688b;
+}
+.color7{
+  color:bisque;
+}
+.color8{
+  color: cadetblue;
+}
+.color9{
+  color: black;
+}
+.active{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+text{
+ font-size: 22rpx;
+ margin-left: 15rpx;
+ color:red;
+}
+page{
+  background-color: #fff;
+}

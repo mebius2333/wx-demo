@@ -1,0 +1,18 @@
+<view style="background:url(/img/12.jpg);background-repeat: no-repeat;background-size: cover;background-size: 100% 100%;" class="ba">
+  <view class="pc1">
+    <image src="/img/10002.png" mode="widthFix"></image>
+  </view>
+  <swiper indicator-dots circular autoplay interval="3000">
+    <swiper-item  wx:for="{{lunbo}}" wx:key="id">
+      <image src="{{item.icon}}" mode="widthFix"></image>
+    </swiper-item>
+  </swiper>
+  <view class="list">
+    <view class="item" wx:for="{{gridList}}" wx:key="id">
+    <navigator url="/pages/index5/index5">
+      <image src="{{item.icon2}}"></image>
+    </navigator>
+      <text>{{item.name}}</text>
+    </view>
+  </view>
+</view>

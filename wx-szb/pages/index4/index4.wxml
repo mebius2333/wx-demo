@@ -1,0 +1,30 @@
+<view class="main2">
+<view class="main"  wx:for="{{show}}" wx:key="{{id}}">
+  <view>
+  <view class="sign1">
+    <text class="zi">{{item.name}}</text>
+    <text class="sign ">cv：{{item.cv}}</text>
+  </view>
+  <view class="sign">
+  <text>类型：{{item.type}}</text>
+  <text>职业：{{item.decompose}}</text>
+  <text>卡包：{{item.pac}}</text>
+  </view>
+  </view>
+  <view class="img1">
+    <image src="{{item.img1}}" class="img" mode="widthFix"></image>
+    <image src="{{item.img2}}" class="img" mode="widthFix"></image>
+  </view>
+</view>
+ <view class="main1">
+  <view wx:for="{{show}}" wx:key="{{id}}">
+    <text style="color: aqua;">进化前：\n</text><text>{{item.before}}\n</text>
+    <text style="color: aqua;">进化后：\n</text><text>{{item.after}}</text>
+  </view>
+ </view>
+</view>
+<view wx:for="{{show}}" wx:key="id" class="main3">
+  <text>{{item.bac1}}</text>
+  <view class="border"></view>
+  <text>{{item.bac2}}</text>
+</view>
